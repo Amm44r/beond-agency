@@ -37,3 +37,6 @@ Contributions to the project are welcome! If you have any suggestions, bug repor
 This project is licensed under the Personal Use License.
 You are free to use, modify, and distribute the code for personal purposes only.
 Commercial use or redistribution for profit is strictly prohibited without explicit permission from the owner.
+
+**Important Notes**
+Change the {FORM ENDPOINT} link on the ContactForm.jsx file to your form endpoint (eg. email, xcel sheet)
