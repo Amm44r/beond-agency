@@ -12,7 +12,7 @@ import cross from './cross.png';
 import fb_logo from './Facebook logo.png';
 import figma_logo from './Figma logo.png';
 import google_logo from './Google logo.png';
-import insta_logo from './instagram_logo.png';
+import insta_logo from './Instagram_logo.png';
 import logo from './logo.png';
 import menu from './menu.png';
 import right_arrow_2 from './right arrow_2.png';
