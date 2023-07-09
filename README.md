@@ -9,16 +9,16 @@ The website is designed to provide a seamless user experience and deliver key in
 
 
 **Features**
-Responsive Design
-Service Showcase
-Portfolio Display
-Contact Form
+- Responsive Design
+- Service Showcase
+- Portfolio Display
+- Contact Form
 
 
 **Installation**
 To install and run the website locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/repository.git
+Clone the repository: git clone https://github.com/Amm44r/beond-agency.git
 Navigate to the project directory: cd repository
 Open the index.html file in your preferred web browser.
 
