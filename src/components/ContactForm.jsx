@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styles from '../style';
 
-const FORM_ENDPOINT = "https://getform.io/f/bef3cafb-701d-4a06-8f49-75943483708c"; // TODO - update to the correct endpoint
+const FORM_ENDPOINT = "{CHANGE TO ENDPOINT}"; // TODO - update to the correct endpoint
 
 const ContactForm = () => {
   const [submitted, setSubmitted] = useState(false);
